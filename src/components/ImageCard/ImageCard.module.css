@@ -10,4 +10,6 @@
 }
 .image {
   cursor: zoom-in;
+  width: 400px;
+  height: 280px;
 }
